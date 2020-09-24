@@ -9,9 +9,9 @@
 - [TAB Forum Category](https://forum.getodk.org/c/governance/tab)
 - [TAB Forum Tag](https://forum.getodk.org/tags/tab)
 - ODK Project Pages: [Briefcase](https://github.com/getodk/briefcase), [Build](https://github.com/getodk/build), [Central](https://github.com/getodk/central), [Collect](https://github.com/getodk/collect), [Documentation](https://github.com/getodk/docs), [JavaRosa](https://github.com/getodk/javarosa), [ODK XForms specification](https://github.com/getodk/xforms-spec), [Validate](https://github.com/getodk/validate), [XLSForm Offline](https://github.com/getodk/xlsform-offline), [XLSForm Online](https://github.com/getodk/xlsform-online)
-- [TAB Tool Governance](https://github.com/getodk/governance/blob/master/TOOL-GOVERNANCE.md)
+- [ODK Tool Governance](https://github.com/getodk/governance/blob/master/TOOL-GOVERNANCE.md)
 - [TAB Governance Guidelines](https://github.com/getodk/governance/blob/master/TAB-GOVERNANCE.md)
-- [Public Governance Page with TAB Members & Photos](https://getodk.org/community/governance/)
+- [Ecosystem Page with TAB Members & Photos](https://getodk.org/about/ecosystem.html)
 - [Meeting Facilitator Checklist](#meeting-facilitator-checklist)
 
 For more details on the TAB's responsibilities, see the [TAB governance](https://github.com/getodk/governance/blob/master/TAB-GOVERNANCE.md) approved on Nov 7, 2017.
@@ -26,7 +26,7 @@ The TAB engages in various sorts of communication with different audiences. Is i
 | Forums | [tab Tag](https://forum.getodk.org/tags/tab) | Usually public | Used for public posts with TAB-related content, usually in the [Governance](https://forum.getodk.org/c/governance) category but not always. |
 | Forums | [tab Category](https://forum.getodk.org/c/governance/tab) | TAB-only | For private conversations. |
 | Forums | [@TAB Mention](https://forum.getodk.org/search?q=@TAB) | Public or private, depending on location used | Include in post to request action from TAB. ONLY TAB can use it, and should be used sparingly. Somewhat like a TAB mailing list. |
-| Forums | [Meeting Topic](https://forum.getodk.org/search?q=TAB%20Call) | Public | Topics created for each meeting. Venue for TAB agenda requests from public. |
+| Forums | [Meeting Topic](https://forum.getodk.org/tags/tab-meeting) | Public | Topics created for each meeting. Venue for TAB agenda requests from public. |
 | Slack | [#tab, #tab-pulse Channels](https://getodk.slack.com/channels/tab) | TAB-only | For quick, private ephemeral conversation. |
 
 ## Process
