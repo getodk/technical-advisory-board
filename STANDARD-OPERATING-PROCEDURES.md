@@ -5,6 +5,7 @@
 - [Meeting Agendas and Minutes](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit)
 - [Meeting History](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0)
 - [ODK Roadmap](https://github.com/getodk/roadmap/projects/1)
+- [TAB Parking Lot](https://docs.google.com/spreadsheets/d/1_vEWH9OFibkC2DuTe7nfy37SgEVLDFI8stGdZKDE5AE/edit#gid=0)
 - [Uberconference Room](https://www.uberconference.com/getodk)
 - [TAB Forum Category](https://forum.getodk.org/c/governance/tab)
 - [TAB Forum Tag](https://forum.getodk.org/tags/tab)
@@ -102,7 +103,7 @@ At least one week before the meeting:
     1. Copy the agenda template, found at the very bottom of the document, to that page.
     1. Copy action items from the previous meeting into the new agenda for follow up.
     1. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the parking lot.
-    1. Look at the [roadmap](https://github.com/getodk/roadmap/projects/1) for potential agenda items.
+    1. Look at the [parking lot](https://docs.google.com/spreadsheets/d/1_vEWH9OFibkC2DuTe7nfy37SgEVLDFI8stGdZKDE5AE/edit#gid=0) for potential agenda items.
     1. For substantive agenda items:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         1. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
