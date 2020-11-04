@@ -110,7 +110,7 @@ At least one week before the meeting:
     1. Title: ODK TAB Call - YYYY-MM-DD
     1. Category: Development
     1. Tags: `tab`, `tab-meeting`
-    1. Date/Time: Date and time of the call (see previous meeting minutes if unsure of time)
+    1. Date/Time: Date and time of the call. Time is always 17:00 UTC.
     1. Content:
         ```
         These calls bring together the Technical Advisory Board for the ODK suite (@TAB) to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TAB members may talk.
