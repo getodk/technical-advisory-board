@@ -147,5 +147,5 @@ It is important that key group assets are owned by organizational accounts rathe
 
 * Google Docs/Drive - should be owned by getodk@gmail.com (TAB owns that account)
     * If you create a Google Drive asset that is important for the project and should be long-lived, please transfer ownership to getodk@gmail.com .
-* UberConference Room - owned by email@getodk.org 
+* Dialpad Room - owned by email@getodk.org 
 * GitHub projects - owned by the Get ODK GitHub organization
