@@ -6,10 +6,10 @@
 - [Meeting History](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0)
 - [ODK Roadmap](https://github.com/getodk/roadmap/projects/1)
 - [TAB Parking Lot](https://docs.google.com/spreadsheets/d/1_vEWH9OFibkC2DuTe7nfy37SgEVLDFI8stGdZKDE5AE/edit#gid=0)
-- [Uberconference Room](https://www.uberconference.com/getodk)
+- [Dialpad Room](https://meetings.dialpad.com/room/getodk)
 - [TAB Forum Category](https://forum.getodk.org/c/governance/tab)
 - [TAB Forum Tag](https://forum.getodk.org/tags/tab)
-- ODK Project Pages: [Briefcase](https://github.com/getodk/briefcase), [Build](https://github.com/getodk/build), [Central](https://github.com/getodk/central), [Collect](https://github.com/getodk/collect), [Documentation](https://github.com/getodk/docs), [JavaRosa](https://github.com/getodk/javarosa), [ODK XForms specification](https://github.com/getodk/xforms-spec), [Validate](https://github.com/getodk/validate), [XLSForm Offline](https://github.com/getodk/xlsform-offline), [XLSForm Online](https://github.com/getodk/xlsform-online)
+- ODK Project Pages: [Briefcase](https://github.com/getodk/briefcase), [Build](https://github.com/getodk/build), [Central](https://github.com/getodk/central), [Collect](https://github.com/getodk/collect), [Documentation](https://github.com/getodk/docs), [JavaRosa](https://github.com/getodk/javarosa), [ODK XForms specification](https://github.com/getodk/xforms-spec), [Validate](https://github.com/getodk/validate), [XLSForm Online](https://github.com/getodk/xlsform-online)
 - [ODK Tool Governance](https://github.com/getodk/governance/blob/master/TOOL-GOVERNANCE.md)
 - [TAB Governance Guidelines](https://github.com/getodk/governance/blob/master/TAB-GOVERNANCE.md)
 - [Ecosystem Page with TAB Members & Photos](https://getodk.org/about/ecosystem.html)
@@ -23,7 +23,7 @@ The TAB engages in various sorts of communication with different audiences. Is i
 
 | Venue | Channel | Visibility | Purpose |
 |---|---|---|---|
-| UberConference | [Conference Room](https://www.uberconference.com/getodk) | Anyone can join, previous calls are not visible | For meetings and synchronous communication. |
+| Dialpad | [Conference Room](https://meetings.dialpad.com/room/getodk) | Anyone can join, previous calls are not visible | For meetings and synchronous communication. |
 | Forums | [tab Tag](https://forum.getodk.org/tags/tab) | Usually public | Used for public posts with TAB-related content, usually in the [Governance](https://forum.getodk.org/c/governance) category but not always. |
 | Forums | [tab Category](https://forum.getodk.org/c/governance/tab) | TAB-only | For private conversations. |
 | Forums | [@TAB Mention](https://forum.getodk.org/search?q=@TAB) | Public or private, depending on location used | Include in post to request action from TAB. ONLY TAB can use it, and should be used sparingly. Somewhat like a TAB mailing list. |
@@ -32,7 +32,7 @@ The TAB engages in various sorts of communication with different audiences. Is i
 
 ## Process
 
-The TAB meets every other Wednesday for 1 hour on [Uberconference](https://www.uberconference.com/getodk). Meetings are open for non-TAB members to listen. See meeting announcements for dates and times.
+The TAB meets every four weeks for 1 hour on [Dialpad](https://meetings.dialpad.com/room/getodk). Meetings are open for non-TAB members to listen. See meeting announcements for dates and times.
 
 Meetings are led by a rotating facilitator. The facilitator is responsible for generating an agenda (see below). Anyone can propose agenda items by commenting on the meeting announcement post.
 
@@ -116,7 +116,7 @@ At least one week before the meeting:
         ```
         These calls bring together the Technical Advisory Board for the ODK suite (@TAB) to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TAB members may talk.
 
-        The calls are held every two weeks in [our UberConference room](https://uberconference.com/getodk). We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
+        The calls are held every four weeks in [our Dialpad room](https://meetings.dialpad.com/room/getodk). We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
 
         Our next call will be Wed, ENTER_DATE_ONLY_HERE. The meeting time should be shown in your timezone above.
 
@@ -147,5 +147,5 @@ It is important that key group assets are owned by organizational accounts rathe
 
 * Google Docs/Drive - should be owned by getodk@gmail.com (TAB owns that account)
     * If you create a Google Drive asset that is important for the project and should be long-lived, please transfer ownership to getodk@gmail.com .
-* UberConference Room - owned by getodk@gmail.com 
+* Dialpad Room - owned by email@getodk.org 
 * GitHub projects - owned by the Get ODK GitHub organization
