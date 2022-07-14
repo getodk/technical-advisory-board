@@ -2,18 +2,27 @@
 
 ## Quick Links
 
+### Meetings
+- Meeting Calendar: [Google Calendar](https://calendar.google.com/calendar/u/0?cid=ZW1haWxAZ2V0b2RrLm9yZw), [iCal](https://calendar.google.com/calendar/ical/email%40getodk.org/public/basic.ics), [Web](https://calendar.google.com/calendar/embed?src=email%40getodk.org&ctz=America%2FLos_Angeles)
 - [Meeting Agendas and Minutes](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit)
+- [Zoom Meeting Room](https://us06web.zoom.us/j/84959312841?pwd=eEt3a2tKMy9sZG5zQXZBRzhFVThzUT09)
+
+### Product
+- [Roadmap](https://github.com/getodk/roadmap/projects/1)
+- ODK Repos: [Collect](https://github.com/getodk/collect), [Central](https://github.com/getodk/central), [Docs](https://github.com/getodk/docs), [ODK XForms](https://github.com/getodk/xforms-spec)
+- Ecosystem Repos: [XLSForm](https://github.com/xlsform), [Enketo](https://github.com/enketo)
+
+### Governance
+- [TAB Members](https://getodk.org/about/ecosystem.html)
+- [TAB Governance](https://github.com/getodk/governance/blob/master/TAB-GOVERNANCE.md)
+- [Tool Governance](https://github.com/getodk/governance/blob/master/TOOL-GOVERNANCE.md)
+
+### Other
+- [Meeting Facilitator Checklist](#meeting-facilitator-checklist)
 - [Meeting History](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0)
-- [ODK Roadmap](https://github.com/getodk/roadmap/projects/1)
 - [TAB Parking Lot](https://docs.google.com/spreadsheets/d/1_vEWH9OFibkC2DuTe7nfy37SgEVLDFI8stGdZKDE5AE/edit#gid=0)
-- [Dialpad Room](https://meetings.dialpad.com/room/getodk)
 - [TAB Forum Category](https://forum.getodk.org/c/governance/tab)
 - [TAB Forum Tag](https://forum.getodk.org/tags/tab)
-- ODK Project Pages: [Briefcase](https://github.com/getodk/briefcase), [Build](https://github.com/getodk/build), [Central](https://github.com/getodk/central), [Collect](https://github.com/getodk/collect), [Documentation](https://github.com/getodk/docs), [JavaRosa](https://github.com/getodk/javarosa), [ODK XForms specification](https://github.com/getodk/xforms-spec), [Validate](https://github.com/getodk/validate), [XLSForm Online](https://github.com/getodk/xlsform-online)
-- [ODK Tool Governance](https://github.com/getodk/governance/blob/master/TOOL-GOVERNANCE.md)
-- [TAB Governance Guidelines](https://github.com/getodk/governance/blob/master/TAB-GOVERNANCE.md)
-- [Ecosystem Page with TAB Members & Photos](https://getodk.org/about/ecosystem.html)
-- [Meeting Facilitator Checklist](#meeting-facilitator-checklist)
 
 For more details on the TAB's responsibilities, see the [TAB governance](https://github.com/getodk/governance/blob/master/TAB-GOVERNANCE.md) approved on Nov 7, 2017.
 
@@ -23,16 +32,16 @@ The TAB engages in various sorts of communication with different audiences. Is i
 
 | Venue | Channel | Visibility | Purpose |
 |---|---|---|---|
-| Dialpad | [Conference Room](https://meetings.dialpad.com/room/getodk) | Anyone can join, previous calls are not visible | For meetings and synchronous communication. |
-| Forums | [tab Tag](https://forum.getodk.org/tags/tab) | Usually public | Used for public posts with TAB-related content, usually in the [Governance](https://forum.getodk.org/c/governance) category but not always. |
-| Forums | [tab Category](https://forum.getodk.org/c/governance/tab) | TAB-only | For private conversations. |
-| Forums | [@TAB Mention](https://forum.getodk.org/search?q=@TAB) | Public or private, depending on location used | Include in post to request action from TAB. ONLY TAB can use it, and should be used sparingly. Somewhat like a TAB mailing list. |
-| Forums | [Meeting Topic](https://forum.getodk.org/tags/tab-meeting) | Public | Topics created for each meeting. Venue for TAB agenda requests from public. |
-| Slack | [#tab, #tab-pulse Channels](https://getodk.slack.com/channels/tab) | TAB-only | For quick, private ephemeral conversation. |
+| Zoom | [Meeting Room](https://us06web.zoom.us/j/84959312841?pwd=eEt3a2tKMy9sZG5zQXZBRzhFVThzUT09) | Public | For synchronous meetings |
+| Forum | [tab Tag](https://forum.getodk.org/tags/tab) | Usually public | Used for public posts with TAB-related content, usually in the [Governance](https://forum.getodk.org/c/governance) category. |
+| Forum | [tab Category](https://forum.getodk.org/c/governance/tab) | TAB-only | For private discussions |
+| Forum | [@TAB Mention](https://forum.getodk.org/search?q=@TAB) | Public or private, depending on location used | Include in post to request action from TAB. Only TAB can use it, and should be used sparingly. |
+| Forum | [Meeting Topic](https://forum.getodk.org/tags/tab-meeting) | Public | Topics created for each meeting. Venue for TAB agenda requests from public. |
+| Slack | [#tab](https://getodk.slack.com/channels/tab), [#tab-pulse](https://getodk.slack.com/channels/tab-pulse) | TAB-only | For quick, private ephemeral chat |
 
 ## Process
 
-The TAB meets every four weeks for 1 hour on [Dialpad](https://meetings.dialpad.com/room/getodk). Meetings are open for non-TAB members to listen. See meeting announcements for dates and times.
+The TAB meets every four weeks for 1 hour. Meetings are open for non-TAB members to listen. See meeting announcements for dates and times.
 
 Meetings are led by a rotating facilitator. The facilitator is responsible for generating an agenda (see below). Anyone can propose agenda items by commenting on the meeting announcement post.
 
@@ -44,15 +53,15 @@ As much as possible, the TAB operates in public.
 
 ## Adding new members
 
-To add new members, a TAB member will send a Google Forms ballot to all TAB members via a private channel. The ballot will have a randomized list of candidate names, with links to their application, and a Yes/No option for each candidate. There will also be a secret passphrase question that members can use to ensure their vote has been counted. After a predetermined period (typically 72 hours), the votes will be counted and the resulting spreadsheet will be made public. The election will be valid only if the results have the correct number of votes and all members can see their secret passphrase.
+To add new members, the Get ODK representative on the TAB will send a forum poll to current TAB members via a shared personal message. The ballot will have a randomized list of candidate names, with links to their application, and a Yes/No option for each candidate. After a predetermined period (typically 72 hours), the votes will be counted and the results will be made public.
 
 ## Adding new committers
 
-The [TAB governance](https://github.com/getodk/governance/blob/master/TAB-GOVERNANCE.md) requires that the TAB choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in [the private TAB forum category](https://forum.getodk.org/c/governance/tab). Selection of a new committer requires consensus approval: three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
+The [TAB governance](https://github.com/getodk/governance/blob/master/TAB-GOVERNANCE.md) requires that the TAB choose a process for adding new committers. Because discussions about specific community members are sensitive, nominations and voting occurs in a shared personal message with current TAB members on the forum. Selection of a new committer requires consensus approval: three binding +1 votes and no binding -1 votes are required over a 72 hour period. Further, the three binding votes must be from different organizations.
 
 ## Roadmap
 
-The purpose of the roadmap is to document and track proposed changes to the ODK suite of tools. The TAB maintains this roadmap to ensure a coherent and orderly evolution of the tools. Any TAB member can change the roadmap, but changes should typically be made only after consultation with other TAB members.
+The purpose of the roadmap is to document and track proposed changes to ODK. The TAB helps Get ODK maintain this roadmap to ensure a coherent and orderly evolution of the tools. Any TAB member can change the roadmap, but changes should typically be made only after consultation with Get ODK and other TAB members.
 
 The roadmap is maintained in [a project in the roadmap repo](https://github.com/getodk/roadmap/projects/1) and has the following categories.
 
@@ -116,7 +125,7 @@ At least one week before the meeting:
         ```
         These calls bring together the Technical Advisory Board for the ODK suite (@TAB) to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TAB members may talk.
 
-        The calls are held every four weeks in [our Dialpad room](https://meetings.dialpad.com/room/getodk). We put the agenda, audio, and transcript of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
+        The calls are held every four weeks on [Zoom](https://us06web.zoom.us/j/84959312841?pwd=eEt3a2tKMy9sZG5zQXZBRzhFVThzUT09). We put the agenda and recording of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
 
         Our next call will be Wed, ENTER_DATE_ONLY_HERE. The meeting time should be shown in your timezone above.
 
@@ -137,15 +146,15 @@ At least one week before the meeting:
 
 ### Wrapping Up
 
-1. Remind @yanokwa to add chat transcript and audio links to the minutes.
+1. Remind @yanokwa to make the meeting recording public.
 1. Add an entry to the [meeting history list](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0).
 2. Review next meeting time. Ask @yanokwa to update calendar invite time and invitees when necessary.
 
 ## Asset Ownership
 
-It is important that key group assets are owned by organizational accounts rather than individuals. The group's assets currently include:
+It is important that key group assets are owned by organizational accounts whenever possible. The group's assets currently include:
 
 * Google Docs/Drive - should be owned by getodk@gmail.com (TAB owns that account)
     * If you create a Google Drive asset that is important for the project and should be long-lived, please transfer ownership to getodk@gmail.com .
-* Dialpad Room - owned by email@getodk.org 
-* GitHub projects - owned by the Get ODK GitHub organization
+* Zoom - administered by yanokwa@getodk.org 
+* GitHub projects - administered by yanokwa@getodk.org
