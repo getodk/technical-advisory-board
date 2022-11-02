@@ -43,9 +43,9 @@ The TAB engages in various sorts of communication with different audiences. Is i
 
 The TAB meets every four weeks for 1 hour. Meetings are open for non-TAB members to listen. See meeting announcements for dates and times.
 
-Meetings are led by a rotating facilitator. The facilitator is responsible for generating an agenda (see below). Anyone can propose agenda items by commenting on the meeting announcement post.
+Meetings are led by a rotating facilitator. The Get ODK representative is responsible for generating an agenda (see below). Anyone can propose agenda items by commenting on the meeting announcement post.
 
-The agenda includes time caps for each item. A time keeper is selected at the beginning of each meeting and is responsible for stopping discussion when time is up.
+The agenda includes time caps for each item. The facilitator is responsible for stopping discussion when time is up.
 
 The TAB uses [consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making). When an agenda item has appeared to reach consensus, the facilitator asks for any dissent. If there is dissent, a vote on the issue can be called by any member.
 
@@ -111,8 +111,8 @@ At least one week before the meeting:
     1. Create a new page (Cmd+Enter or Insert &gt; Break &gt; Page Break) for the meeting.
     1. Copy the agenda template, found at the very bottom of the document, to that page.
     1. Copy action items from the previous meeting into the new agenda for follow up.
-    1. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the parking lot.
-    1. Look at the [parking lot](https://docs.google.com/spreadsheets/d/1_vEWH9OFibkC2DuTe7nfy37SgEVLDFI8stGdZKDE5AE/edit#gid=0) for potential agenda items.
+    1. If any items from the previous meeting agenda require more discussion, consider adding them to the current meeting or the [parking lot](https://docs.google.com/spreadsheets/d/1_vEWH9OFibkC2DuTe7nfy37SgEVLDFI8stGdZKDE5AE/edit#gid=0).
+    1. Ask the Get ODK representative for any other agenda items. 
     1. For substantive agenda items:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         1. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
