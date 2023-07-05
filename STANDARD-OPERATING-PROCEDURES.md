@@ -8,8 +8,8 @@
 - [Zoom Meeting Room](https://us06web.zoom.us/j/84959312841?pwd=eEt3a2tKMy9sZG5zQXZBRzhFVThzUT09)
 
 ### Product
-- [Roadmap](https://github.com/getodk/roadmap/projects/1)
-- ODK Repos: [Collect](https://github.com/getodk/collect), [Central](https://github.com/getodk/central), [Docs](https://github.com/getodk/docs), [ODK XForms](https://github.com/getodk/xforms-spec)
+- [Roadmap](https://getodk.org/roadmap)
+- Core Repos: [Collect](https://github.com/getodk/collect), [Central](https://github.com/getodk/central), [Docs](https://github.com/getodk/docs), [ODK XForms](https://github.com/getodk/xforms-spec)
 - Ecosystem Repos: [XLSForm](https://github.com/xlsform), [Enketo](https://github.com/enketo)
 
 ### Governance
@@ -21,8 +21,6 @@
 - [Meeting Facilitator Checklist](#meeting-facilitator-checklist)
 - [Meeting History](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0)
 - [TAB Parking Lot](https://docs.google.com/spreadsheets/d/1_vEWH9OFibkC2DuTe7nfy37SgEVLDFI8stGdZKDE5AE/edit#gid=0)
-- [TAB Forum Category](https://forum.getodk.org/c/governance/tab)
-- [TAB Forum Tag](https://forum.getodk.org/tags/tab)
 
 For more details on the TAB's responsibilities, see the [TAB governance](https://github.com/getodk/governance/blob/master/TAB-GOVERNANCE.md) approved on Nov 7, 2017.
 
@@ -117,23 +115,18 @@ At least one week before the meeting:
         1. list the goal(s) of the discussion and any things participants should do to prepare for it.
         1. Check in with the presenter to ensure they are ready to present and get a feel for what the discussion will consist of. This ensures you can facilitate it well.
 1. Create a thread for the meeting on the [forum](https://forum.getodk.org/).
-    1. Title: ODK TAB Call - YYYY-MM-DD
+    1. Title: ODK TAB Call - YYYY-MM-DD @ 1700 UTC
     1. Category: Development
     1. Tags: `tab`, `tab-meeting`
-    1. Date/Time: Date and time of the call. Time is always 17:00 UTC.
     1. Content:
         ```
         These calls bring together the Technical Advisory Board for the ODK suite (@TAB) to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TAB members may talk.
 
-        The calls are held every four weeks on [Zoom](https://us06web.zoom.us/j/84959312841?pwd=eEt3a2tKMy9sZG5zQXZBRzhFVThzUT09). We put the agenda and recording of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
+        The calls are held every fourth Wednesday @ 5 pm UTC on [Zoom](https://us06web.zoom.us/j/84959312841?pwd=eEt3a2tKMy9sZG5zQXZBRzhFVThzUT09). We put the agenda and recording of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
 
-        Our next call will be Wed, ENTER_DATE_ONLY_HERE. The meeting time should be shown in your timezone above.
-
-        The agenda is tentatively as follows:
+        The upcoming tentative agenda is as follows:
 
         PASTE_AGENDA_HERE
-
-        The agenda can also be seen in the [agenda document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA/edit#)
 
         If there are topics you would like to add to the TAB's agenda, please comment below. :point_down:
         ```
@@ -148,7 +141,7 @@ At least one week before the meeting:
 
 1. Remind @yanokwa to make the meeting recording public.
 1. Add an entry to the [meeting history list](https://docs.google.com/spreadsheets/d/1xD44Km1p0LXoIjBkGxolPvkhq7OXlxA28CN2LKrsT2A/edit#gid=0).
-2. Review next meeting time. Ask @yanokwa to update calendar invite time and invitees when necessary.
+1. Review next meeting time. Ask @yanokwa to update calendar invite time and invitees when necessary.
 
 ## Asset Ownership
 
