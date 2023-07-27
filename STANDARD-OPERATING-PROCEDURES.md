@@ -123,7 +123,7 @@ At least one week before the meeting:
     1. Date/Time: Date and time of the call. Time is always 17:00 UTC.
     1. Content:
         ```
-        These calls bring together the Technical Advisory Board for the ODK suite (@TAB) to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TAB members may talk.
+        These calls bring together the Technical Advisory Board for ODK (@TAB) to discuss roadmaps, working groups, and other issues of technical governance. Everyone is welcome to come to these calls, but only TAB members may talk.
 
         The calls are held every four weeks on [Zoom](https://us06web.zoom.us/j/84959312841?pwd=eEt3a2tKMy9sZG5zQXZBRzhFVThzUT09). We put the agenda and recording of every call [in this document](https://docs.google.com/document/d/1KdUeiryViiPyiG8ajDC_snxSzDBBb-kwNauHvD_chfA).
 
